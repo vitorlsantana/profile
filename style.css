@@ -83,7 +83,7 @@ a:hover {
 .img-circle {
   border-radius: 50%;
   width: 100px;
-  box-shadow: 3px 3px 3px #1d3557;
+  box-shadow: 0px 5px 10px #1d3557;
 }
 
 .card-white {
