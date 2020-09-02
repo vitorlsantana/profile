@@ -68,6 +68,10 @@ div {
   margin-bottom: 40px;
 }
 
+.cargo {
+  font-size: 18px;
+}
+
 a {
   color: #e63946;
   text-decoration: none;
